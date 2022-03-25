@@ -9,7 +9,7 @@ Manax allows you to create various types of Luna Linux system image. With this t
 Manax is at a very early stage of development. Currently, there is no option to use it for the purpose for which it is intended.
 
 ## Bugs and Problems
-You can report any problem or bug in the [issues tab](/issues) of this repository.
+You can report any problem or bug in the [issues tab](https://github.com/TheNexerProject/Manax/issues) of this repository.
 
 ## Help Us Build Our Community on Discord
 [Click here](https://discord.gg/CVCQPakcfg) to join us.
