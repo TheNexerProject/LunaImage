@@ -8,7 +8,10 @@ Manax allows you to create various types of Luna Linux system image. With this t
 ## Installation
 Manax is at a very early stage of development. Currently, there is no option to use it for the purpose for which it is intended.
 
-## Help us build our community on Discord
+## Bugs and Problems
+You can report any problem or bug in the [issues tab](./issues) of this repository.
+
+## Help Us Build Our Community on Discord
 [Click here](https://discord.gg/CVCQPakcfg) to join us.
 
 ![Discord Server Banner](https://discordapp.com/api/guilds/956600349286887434/widget.png?style=banner2)
