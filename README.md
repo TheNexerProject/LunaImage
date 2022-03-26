@@ -3,7 +3,7 @@
     <h1>Manax</h1>
 </div>
 
-Manax allows you to create various types of Luna Linux system image. With this tool you can easily create ISO image of Luna or instalation media.
+Manax is a tool written in [Rust](https://www.rust-lang.org/), that allows you to create various types of Luna Linux system image. With this tool you can easily create ISO image of Luna or instalation media.
 
 ## Installation
 Manax is at a very early stage of development. Currently, there is no option to use it for the purpose for which it is intended.
